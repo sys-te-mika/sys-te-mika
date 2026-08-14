@@ -26,19 +26,19 @@
 
 <div align="left">
 
-![HTML5](https://img.shields.io/badge/HTML5-9E4935?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-315B7D?style=for-the-badge&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-5C5630?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-365D85?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-284E5A?style=for-the-badge&logo=react&logoColor=white)
-<br />
-![Python](https://img.shields.io/badge/Python-315A7D?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-5B4B73?style=for-the-badge&logo=openjdk&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-8C3F2B?style=for-the-badge&logo=rust&logoColor=white)
-![C](https://img.shields.io/badge/C-394B70?style=for-the-badge&logo=c&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-343466?style=for-the-badge&logo=lua&logoColor=white)
-<br />
-![SQL](https://img.shields.io/badge/SQL-315B6B?style=for-the-badge&logo=sqlite&logoColor=white)
+<a href="https://html.spec.whatwg.org/" title="HTML5"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/html-5.svg" alt="HTML5" width="46" height="46" /></a>&nbsp;&nbsp;
+<a href="https://www.w3.org/Style/CSS/" title="CSS3"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/css-3.svg" alt="CSS3" width="46" height="46" /></a>&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/docs/Web/JavaScript" title="JavaScript"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/javascript.svg" alt="JavaScript" width="46" height="46" /></a>&nbsp;&nbsp;
+<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/typescript-icon.svg" alt="TypeScript" width="46" height="46" /></a>&nbsp;&nbsp;
+<a href="https://react.dev/" title="React"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/react.svg" alt="React" width="46" height="46" /></a>
+<br /><br />
+<a href="https://www.python.org/" title="Python"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/python.svg" alt="Python" width="46" height="46" /></a>&nbsp;&nbsp;
+<a href="https://www.java.com/" title="Java"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/java.svg" alt="Java" width="46" height="46" /></a>&nbsp;&nbsp;
+<a href="https://www.rust-lang.org/" title="Rust"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/rust.svg" alt="Rust" width="46" height="46" /></a>&nbsp;&nbsp;
+<a href="https://en.cppreference.com/w/c" title="C"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/c.svg" alt="C" width="46" height="46" /></a>&nbsp;&nbsp;
+<a href="https://www.lua.org/" title="Lua"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/lua.svg" alt="Lua" width="46" height="46" /></a>
+<br /><br />
+<a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/postgresql.svg" alt="PostgreSQL" width="46" height="46" /></a>
 
 </div>
 
