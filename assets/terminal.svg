@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220" role="img" aria-labelledby="title desc">
+  <title id="title">Linux terminal introduction</title>
+  <desc id="desc">A dark terminal showing whoami and CURRENT_MISSION commands.</desc>
+
+  <rect width="900" height="220" rx="14" fill="#0d1117"/>
+  <rect x="0.75" y="0.75" width="898.5" height="218.5" rx="13.25" fill="none" stroke="#30363d" stroke-width="1.5"/>
+
+  <circle cx="24" cy="23" r="6" fill="#ff5f56"/>
+  <circle cx="44" cy="23" r="6" fill="#ffbd2e"/>
+  <circle cx="64" cy="23" r="6" fill="#27c93f"/>
+  <text x="450" y="29" text-anchor="middle" fill="#8b949e" font-family="'JetBrains Mono Nerd Font', 'FiraCode Nerd Font', 'Cascadia Code', 'JetBrains Mono', monospace" font-size="14">g&amp;n@localhost: ~</text>
+  <line x1="0" y1="46" x2="900" y2="46" stroke="#30363d"/>
+
+  <g font-family="'JetBrains Mono Nerd Font', 'FiraCode Nerd Font', 'Cascadia Code', 'JetBrains Mono', monospace" font-size="17">
+    <text x="24" y="78">
+      <tspan fill="#f778ba">g&amp;n</tspan><tspan fill="#8b949e">@</tspan><tspan fill="#79c0ff">localhost</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#d2a8ff">~</tspan><tspan fill="#3fb950">$</tspan><tspan fill="#f0f6fc"> whoami</tspan>
+    </text>
+    <text x="24" y="108" fill="#c9d1d9">gaia&amp;nya, an aspiring software developer + computer science student</text>
+
+    <text x="24" y="150">
+      <tspan fill="#f778ba">g&amp;n</tspan><tspan fill="#8b949e">@</tspan><tspan fill="#79c0ff">localhost</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#d2a8ff">~</tspan><tspan fill="#3fb950">$</tspan><tspan fill="#f0f6fc"> echo </tspan><tspan fill="#ffa657">$CURRENT_MISSION</tspan>
+    </text>
+    <text x="24" y="180" fill="#c9d1d9">programming fun projects while still learning more about computers.</text>
+  </g>
+</svg>
