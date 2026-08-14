@@ -42,6 +42,14 @@
 
 </div>
 
+## <img src="https://win98icons.alexmeub.com/icons/png/loudspeaker_rays-0.png" width="24" alt="" /> last.fm scrobbles
+
+<div align = "center">
+
+![shinohanamori's Last.fm activity](https://lastfm-contribution-graph.enzotherapper.workers.dev/graph.svg?theme=github-dark)
+
+</div>
+
 ## <img src="https://win98icons.alexmeub.com/icons/png/world-2.png" width="24" alt="" /> find me online
 
 <div align="center">
