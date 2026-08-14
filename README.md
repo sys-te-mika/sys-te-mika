@@ -56,6 +56,7 @@
 
 [![Email](https://img.shields.io/badge/email-gaia__nya%40proton.me-ff69b4?style=for-the-badge&logo=protonmail&logoColor=white&style=flat-square)](mailto:gaia_nya@proton.me)
 [![Steam](https://img.shields.io/badge/steam-hatsukoizombie-a78bfa?style=for-the-badge&logo=steam&logoColor=white&style=flat-square)](https://steamcommunity.com/id/hatsukoizombie)
+[![Discord](https://img.shields.io/badge/discord-koufuku-8c56d4?style=for-the-badge&logo=discord&logoColor=white&style=flat-square)](https://discord.gg/qVkyH83T)
 
 </div>
 
