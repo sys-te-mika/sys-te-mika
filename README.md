@@ -17,6 +17,7 @@
 
 ## <img src="https://win98icons.alexmeub.com/icons/png/computer_explorer-4.png" width="24" alt="" /> about me
 
+> `NAME` Feel free to call me Mika. I prefer it that way. <br />
 > `ORIGIN` Online since I was six, and I never really logged off <br />
 > `AFFILIATION` IEEE volunteer <br />
 > `PROJECTS` Small applications built for curiosity and personal use <br />
