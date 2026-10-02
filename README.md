@@ -17,11 +17,11 @@
 
 ## <img src="https://win98icons.alexmeub.com/icons/png/computer_explorer-4.png" width="24" alt="" /> about me
 
-> `NAME` Feel free to call me Mika. I prefer it that way. <br />
-> `ORIGIN` Online since I was six, and I never really logged off <br />
-> `AFFILIATION` IEEE volunteer <br />
-> `PROJECTS` Small applications built for curiosity and personal use <br />
-> `OFFLINE` Music production · gaming · cosplay · livestreaming
+> `NAME` IRL or at events, I prefer you call me Jay. Otherwise, you can call me koufuku (pronounced kow-foo-koo) or Mika. <br />
+> `ORIGIN` Online since I was six, and I never really logged off. Currently 20 years old and still in love with computers. <br />
+> `AFFILIATION` IEEE IES-IPS PH volunteer, currently studying at De La Salle University under the Bachelor of Science in Computer Science, specialization in Software Technology degree. <br />
+> `PROJECTS` Small desktop apps built for curiosity and personal use alongside websites for work purposes <br />
+> `OFFLINE` Music · gaming · cosplay · livestreaming · goofing around in general
 
 ## <img src="https://win98icons.alexmeub.com/icons/png/directory_open_file_mydocs-4.png" width="24" alt="" /> toolbox
 
